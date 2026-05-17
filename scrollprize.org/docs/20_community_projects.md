@@ -55,6 +55,8 @@ For state-of-the-art updates join our [Discord server](https://discord.com/invit
 
 ### 🌟 Highlighted
 
+- [DBbun Companions](https://github.com/DBbun/dbbun-companions): A collection of DBbun-generated companions built from documents, images, papers, patents, articles, and other source materials.
+
 - [vesuvius](https://github.com/scrollprize/vesuvius): Python library for accessing Vesuvius Challenge data. Allows direct access to scroll data without managing download scripts or storing terabytes of CT scans locally.
 
 - [Segment browser](https://github.com/jrudolph/vesuvius-browser) is a web-based tool to browse layers and open source ink detection results of all released segments. By Johannes Rudolph
